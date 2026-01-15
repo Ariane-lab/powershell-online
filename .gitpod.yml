@@ -1,0 +1,12 @@
+{
+  "image": "gitpod/workspace-full:latest",
+  "tasks": [
+    {
+      "init": "pwsh -c 'Write-Host \"Workspace ready. Run: pwsh ./find-bornes.ps1 -MonumentsCsv monuments.csv -IrveCsv irve.csv -OutCsv out/bornes_50kW_dans_500m.csv -OutHtml out/carte_monuments_x_bornes.html\"'",
+      "command": ""
+    }
+  ],
+  "vscode": {
+    "extensions": []
+  }
+}
