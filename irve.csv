@@ -1,0 +1,4 @@
+latitude,longitude,puissance_nominale,id_pdc_itinerance,nom_operateur
+48.8585,2.2946,150,ID123,OperatorA
+48.8600,2.3500,22,ID124,OperatorB
+48.8530,2.3500,75,ID125,OperatorC
